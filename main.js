@@ -23,5 +23,17 @@ buttons.forEach(function(button){
          if(e.target.id === 'yellow'){
             body.style.backgroundColor = "yellow";
         }
+         if(e.target.id === 'red'){
+            body.style.backgroundColor = "red";
+        }
+         if(e.target.id === 'black'){
+            body.style.backgroundColor = "black";
+        }
+        if(e.target.id === 'black'){
+            body.style.backgroundColor = "black";
+        }
+        if(e.target.id === 'red'){
+            body.style.backgroundColor = "red";
+        }
      });
 });
